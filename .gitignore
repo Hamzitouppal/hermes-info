@@ -1,0 +1,11 @@
+# This public repository is only for static information pages.
+.env
+.env.*
+!.env.example
+client_secret*.json
+credentials*.json
+token*.json
+*refresh_token*
+*.pem
+*.key
+gogcli/
